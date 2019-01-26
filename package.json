@@ -1,0 +1,18 @@
+{
+  "name": "nodepdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "app.js"
+  },
+  "author": "Soumya Ghosh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "pdf-puppeteer": "^1.1.4",
+    "puppeteer": "^1.11.0"
+  }
+}
